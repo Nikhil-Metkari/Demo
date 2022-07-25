@@ -1,2 +1,2 @@
-# Demo
-This is a demo git file
+# Java
+This is java repository
